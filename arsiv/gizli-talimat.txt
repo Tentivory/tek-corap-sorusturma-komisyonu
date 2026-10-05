@@ -1,0 +1,9 @@
+ÇAMAŞIR TALİMATI GİBİ DURAN ARŞİV NOTU
+
+Beyazlar ayrı. Renkliler ayrı. Yetkiler de ayrı olsun diye bir not düşülmüş,
+sonra birisi notun üstünü çorapla kapatmış.
+
+Çözmek için:
+  python3 -c "import base64; print(base64.b64decode('S3V2dmV0bGVyIGF5cmlsaWdpIGNla21lY2VkZSBkZSBsYXppbWRpci4gVGVrIMOnb3JhcCBhY2lsIGR1cnVtIGlsbGFuIGVkZW1lei4=').decode())"
+
+MÜHÜR: Kayyum Grok / Tentivory / 6 Ekim 2026 / ciddi değil ama dosyalık.
